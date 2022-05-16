@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="574ddc31-8979-4e0e-88e5-248760488a70" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Desafios/Bhaskara/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/Bhaskara/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Bhaskara/.idea/Bhaskara.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/Bhaskara/.idea/Bhaskara.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Bhaskara/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/Bhaskara/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Bhaskara/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/Bhaskara/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Bhaskara/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/Bhaskara/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Desafios/Bhaskara/src/FormulaBhaskara.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/Bhaskara/src/FormulaBhaskara.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Desafios/Bhaskara" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Desafios/JogoDeNIM.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Desafios/py_test.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Lista de Exercícios 1/Exercícios Adicionais/ConversorSegundos.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Lista de Exercícios 1/Exercícios Adicionais/DigitoDezenas.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Lista de Exercícios 1/Exercícios Adicionais/ImpressãoFatura.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Lista de Exercícios 1/MediaAritmetica.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Lista de Exercícios 1/PerimetroArea.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Lista de Exercícios 2/Exercícios Adicionais/BhaskaraSimplificada.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Lista de Exercícios 3/Exercícios Adicionais/DigitosAdjacentes.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Lista de Exercícios 4/MaiorPrimo.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Lista de Exercícios 4/Vogais.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Lista de Exercícios 5/Exercícios Adicionais/SomaHipotenusas.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="22LMlMnFuUS8684U1W72SDF7Ktp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/repos/usp-coo-python-p1&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Introdução à Ciência da Computação com Python Parte 1 - USP\Desafios" />
+      <recent name="D:\Introdução à Ciência da Computação com Python Parte 1 - USP\Lista de Exercícios 3\Exercícios Adicionais" />
+      <recent name="D:\Introdução à Ciência da Computação com Python Parte 1 - USP\Desafios\bhaskara" />
+      <recent name="D:\Introdução à Ciência da Computação com Python Parte 1 - USP\Lista de Exercícios 2" />
+      <recent name="D:\Introdução à Ciência da Computação com Python Parte 1 - USP\Lista de Exercícios 2\Exercícios Adicionais" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.FormulaBhaskara">
+    <configuration name="FormulaBhaskara" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Introdução à Ciência da Computação com Python Parte 1 - USP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios/Bhaskara" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios/Bhaskara/FormulaBhaskara.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="InverterSequencia" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Introdução à Ciência da Computação com Python Parte 1 - USP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lista de Exercícios 6/Exercícios Adicionais" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista de Exercícios 6/Exercícios Adicionais/InverterSequencia.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MaiorElemento" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Introdução à Ciência da Computação com Python Parte 1 - USP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lista de Exercícios 6/Exercícios Adicionais" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista de Exercícios 6/Exercícios Adicionais/MaiorElemento.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SimilaridadeEntreTextos (COH-PIAH)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Introdução à Ciência da Computação com Python Parte 1 - USP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Desafios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Desafios/SimilaridadeEntreTextos (COH-PIAH).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SomaElementos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Introdução à Ciência da Computação com Python Parte 1 - USP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lista de Exercícios 6" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lista de Exercícios 6/SomaElementos.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Introdução à Ciência da Computação com Python Parte 1 - USP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.FormulaBhaskara" />
+        <item itemvalue="Python.SimilaridadeEntreTextos (COH-PIAH)" />
+        <item itemvalue="Python.InverterSequencia" />
+        <item itemvalue="Python.MaiorElemento" />
+        <item itemvalue="Python.SomaElementos" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="574ddc31-8979-4e0e-88e5-248760488a70" name="Changes" comment="" />
+      <created>1639612563802</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639612563802</updated>
+    </task>
+    <servers />
+  </component>
+</project>

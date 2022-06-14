@@ -4,5 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Desafios/Bhaskara" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Desafios/SimilaridadeEntreTextos (COH-PIAH)" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Desafios/Bhaskara" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/Desafios/SimilaridadeEntreTextos (COH-PIAH)" vcs="Git" />
   </component>
 </project>

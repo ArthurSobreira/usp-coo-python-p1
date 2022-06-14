@@ -1,3 +1,5 @@
 ide-config
+__pycache__/
+*.py[cod]
 src/Desafios/Bhaskara/
 /Desafios/SimilaridadeEntreTextos (COH-PIAH)/

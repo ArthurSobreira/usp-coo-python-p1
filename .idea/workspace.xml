@@ -5,50 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="574ddc31-8979-4e0e-88e5-248760488a70" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Introdução à Ciência da Computação com Python Parte 1 - USP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Introdução à Ciência da Computação com Python Parte 1 - USP.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/Bhaskara" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/Bhaskara" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/Bhaskara/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/Bhaskara/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/Bhaskara/.idea/Bhaskara.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/Bhaskara/.idea/Bhaskara.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/Bhaskara/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/Bhaskara/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/Bhaskara/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/Bhaskara/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/Bhaskara/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/Bhaskara/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/Bhaskara/src/FormulaBhaskara.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/Bhaskara/src/FormulaBhaskara.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/JogoDeNIM.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/JogoDeNIM.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/SomaDigitos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/SomaDigitos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desafios/py_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/Desafios/py_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 1/Exercícios Adicionais/ConversorSegundos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 1/Exercícios Adicionais/ConversorSegundos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 1/Exercícios Adicionais/DigitoDezenas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 1/Exercícios Adicionais/DigitoDezenas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 1/Exercícios Adicionais/ImpressãoFatura.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 1/Exercícios Adicionais/ImpressãoFatura.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 1/MediaAritmetica.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 1/MediaAritmetica.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 1/PerimetroArea.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 1/PerimetroArea.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 2/Exercícios Adicionais/BhaskaraSimplificada.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 2/Exercícios Adicionais/BhaskaraSimplificada.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 2/Exercícios Adicionais/DistanciaEntrePontos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 2/Exercícios Adicionais/DistanciaEntrePontos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 2/FizzBuzzParcial_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 2/FizzBuzzParcial_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 2/FizzBuzzParcial_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 2/FizzBuzzParcial_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 2/FizzBuzzParcial_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 2/FizzBuzzParcial_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 2/ParImpar.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 2/ParImpar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 2/VerificarOrdenação.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 2/VerificarOrdenação.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 3/Exercícios Adicionais/ChecagemPrimos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 3/Exercícios Adicionais/ChecagemPrimos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 3/Exercícios Adicionais/DigitosAdjacentes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 3/Exercícios Adicionais/DigitosAdjacentes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 3/Fatorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 3/Fatorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 3/Impares.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 3/Impares.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 3/SomaDigitos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 3/SomaDigitos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 4/Exercícios Adicionais/FizzBuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 4/Exercícios Adicionais/FizzBuzz.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 4/Exercícios Adicionais/MaxCom3Parametros.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 4/Exercícios Adicionais/MaxCom3Parametros.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 4/MaiorPrimo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 4/MaiorPrimo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 4/MaxNumero.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 4/MaxNumero.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 4/Vogais.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 4/Vogais.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 5/Exercícios Adicionais/ContadorPrimos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 5/Exercícios Adicionais/ContadorPrimos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 5/Exercícios Adicionais/SomaHipotenusas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 5/Exercícios Adicionais/SomaHipotenusas.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 5/VisualizadorRetangulo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 5/VisualizadorRetangulo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 5/VisualizadorRetangulo02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 5/VisualizadorRetangulo02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 6/Exercícios Adicionais/InverterSequencia.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 6/Exercícios Adicionais/InverterSequencia.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 6/Exercícios Adicionais/MaiorElemento.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 6/Exercícios Adicionais/MaiorElemento.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 6/RemoverElementosRepetidos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 6/RemoverElementosRepetidos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lista de Exercícios 6/SomaElementos.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista de Exercícios 6/SomaElementos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafios/Bhaskara" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafios/Bhaskara" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafios/Bhaskara/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafios/Bhaskara/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafios/Bhaskara/.idea/Bhaskara.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafios/Bhaskara/.idea/Bhaskara.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafios/Bhaskara/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafios/Bhaskara/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafios/Bhaskara/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafios/Bhaskara/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafios/Bhaskara/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafios/Bhaskara/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Desafios/Bhaskara/src/FormulaBhaskara.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Desafios/Bhaskara/src/FormulaBhaskara.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,18 +34,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Desafios/JogoDeNIM.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Desafios/py_test.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Lista de Exercícios 1/Exercícios Adicionais/ConversorSegundos.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Lista de Exercícios 1/Exercícios Adicionais/DigitoDezenas.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Lista de Exercícios 1/Exercícios Adicionais/ImpressãoFatura.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Lista de Exercícios 1/MediaAritmetica.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Lista de Exercícios 1/PerimetroArea.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Lista de Exercícios 2/Exercícios Adicionais/BhaskaraSimplificada.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Lista de Exercícios 3/Exercícios Adicionais/DigitosAdjacentes.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Lista de Exercícios 4/MaiorPrimo.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Lista de Exercícios 4/Vogais.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/Lista de Exercícios 5/Exercícios Adicionais/SomaHipotenusas.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Desafios/JogoDeNIM.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Desafios/py_test.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lista de Exercícios 1/Exercícios Adicionais/ConversorSegundos.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lista de Exercícios 1/Exercícios Adicionais/DigitoDezenas.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lista de Exercícios 1/Exercícios Adicionais/ImpressãoFatura.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lista de Exercícios 1/MediaAritmetica.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lista de Exercícios 1/PerimetroArea.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lista de Exercícios 2/Exercícios Adicionais/BhaskaraSimplificada.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lista de Exercícios 3/Exercícios Adicionais/DigitosAdjacentes.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lista de Exercícios 4/MaiorPrimo.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lista de Exercícios 4/Vogais.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Lista de Exercícios 5/Exercícios Adicionais/SomaHipotenusas.py" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -89,14 +56,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/repos/usp-coo-python-p2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/repos/usp-coo-python-p1"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Introdução à Ciência da Computação com Python Parte 1 - USP\Desafios" />
@@ -253,5 +220,16 @@
       <updated>1639612563802</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
